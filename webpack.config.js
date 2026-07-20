@@ -3,7 +3,7 @@ import HtmlWebpackPlugin from "html-webpack-plugin";
 
 
 export default {
-    mode: "production",
+    mode: "development",
     entry: "./src/index.js",
     target: "web",
     output: {
